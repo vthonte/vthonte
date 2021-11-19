@@ -10,12 +10,12 @@
 - Always looking for collaborators.
 
 
-### Yes, I am socially very active:
+### Socially active on Linkedin:
 
 
-[<img align="left" alt="vthonte | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="vthonte | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="vthonte | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[<img align="left" alt="vthonte | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" href="https://in.linkedin.com/in/vthonte/"/>][linkedin]
+
 
 <br />
 
