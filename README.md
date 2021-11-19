@@ -37,16 +37,6 @@
 <br />
 
 ---
-/*
-### Recent Blog Posts
-
-  * [Why exactly do we need a Virtual DOM?](https://shuvamk.medium.com/why-exactly-do-we-need-a-virtual-dom-7e6821d2b17d)
-  * [Why did we fail in the first launch of our app?](https://shuvamk.medium.com/why-did-we-fail-in-the-first-launch-of-our-app-32debda1fcc7)
-  * [Beginner’s Guide to Candlestick Charts: How and Why?](https://shuvamk.medium.com/beginners-guide-to-candlestick-charts-how-and-why-8c61e1d1bce7)
-  * [Why reading books is overrated today?](https://shuvamk.medium.com/why-reading-books-is-overrated-today-2659ded960d8)
-  * [Most basic things you should know before entering the Stock Market.](https://shuvamk.medium.com/most-basic-things-you-should-know-before-entering-the-stock-market-344f5fb24598)
-
-*/
 
 
 
