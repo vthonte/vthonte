@@ -10,12 +10,28 @@
 - Always looking for collaborators.
 
 
-### Socially active on Linkedin:
+<table>
+
+  <td>
+  
+<a href='https://github.com/vthonte'>
+  <p align='left'>
+    <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=vthonte&style=flat-square&color=1fff6d" style="max-width:100%;">
+  </p>
+</a>
+<hr></hr>
+<a href='https://github.com/vthonte'>
+  <p align='left'>
+    <img alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api?username=vthonte&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&include_all_commits=true&count_private=true" style="max-width:100%;">
+  </p>
+</a>
 
 
+
+  <td>
+Socially active on Linkedin:
 
 [<img align="left" alt="vthonte | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" href="https://in.linkedin.com/in/vthonte/"/>][linkedin]
-
 
 <br />
 
@@ -36,10 +52,10 @@
 <br />
 <br />
 
----
-
 
 
 [linkedin]: https://in.linkedin.com/in/vthonte/
 
 
+  </td>
+</table>
