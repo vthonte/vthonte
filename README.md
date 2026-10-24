@@ -23,7 +23,8 @@
 > *"There are already many answers, I am looking for questions."*
 
 - 🔭 **Current Focus:** Operating system porting, low-level Android/Linux integration, and developer tooling.
-- 🚀 **Latest Work:** Author of [**gbOS86 Persistent Dual-Boot Toolkit**](https://github.com/vthonte/gbos86-persistent-dualboot) — an automated, non-destructive installer and hardware tuning harness for Googlebook OS on modern Intel Core Ultra / Arc hardware.
+- 🚀 **Latest Work:** Author of [**gbOS86 Persistent Dual-Boot Toolkit**](https://github.com/vthonte/gbos86-persistent-dualboot) — automated dual-boot installer & hardware tuning for Googlebook OS on Intel Core Ultra / Arc.
+- ⚡ **Sefirah AI:** Contributor and creator of [**Sefirah AI**](https://github.com/vthonte/Sefirah/tree/feature/ai) (cross-platform phone integration with dynamic multi-network failover and automated wireless ADB).
 - 🌱 **Learning & Exploring:** Deep learning workflows, LLM orchestration, and low-latency system architectures.
 - 💼 **Vision:** Dedicated to building impactful products on an entrepreneurial journey.
 - 🤝 **Collaboration:** Always open to collaborating on ambitious open-source projects, system-level challenges, or startup ideas.
@@ -80,14 +81,28 @@
 
 ---
 
+### ⚡ Sefirah AI (Next-Gen Phone Link & Device Sync)
+
+Active contributor to the [Sefirah](https://github.com/shrimqy/Sefirah) cross-device ecosystem and creator of **Sefirah AI**:
+* 🔄 **Multi-Network Auto-Switching & Failover:** Instant failover between Wi-Fi, USB reverse-tethering tunnels, and Wi-Fi roaming without session disconnects or flapping.
+* ⚡ **Automated Wireless ADB:** One-click zero-config wireless ADB pairing and device setup over USB tunnels.
+* 🛡️ **Resilient Device Sync:** Real-time CallLog `ContentObserver`, 5s keepalive pings, manual disconnect mutual overrides, and side-by-side package identity (`vthonte.Sefirah-AI`).
+
+🔗 **Sefirah AI Repositories & Automated Builds:**
+* 🖥️ **Windows Client:** [**vthonte/Sefirah (`feature/ai`)**](https://github.com/vthonte/Sefirah/tree/feature/ai) • [📦 Download Latest Windows x64 MSIX Builds](https://github.com/vthonte/Sefirah/actions/workflows/build.yml?query=branch%3Afeature%2Fai)
+* 📱 **Android Client:** [**vthonte/Sefirah-Android (`feature/ai`)**](https://github.com/vthonte/Sefirah-Android/tree/feature/ai)
+
+---
+
 ### 📌 Featured Repositories
 
 | Repository | Description | Tech Stack |
 | :--- | :--- | :--- |
 | 🚀 [**gbos86-persistent-dualboot**](https://github.com/vthonte/gbos86-persistent-dualboot) | Automated persistent dual-boot toolkit & hardware tuning for Googlebook OS (gbOS86) on PC hardware | Shell, Linux, Android, QEMU |
+| ⚡ [**Sefirah (Windows)**](https://github.com/vthonte/Sefirah/tree/feature/ai) | Enhanced Phone Link desktop client with multi-network failover, wireless ADB, and SFTP | C#, .NET, Uno Platform, WinUI |
+| 📱 [**Sefirah (Android)**](https://github.com/vthonte/Sefirah-Android/tree/feature/ai) | Companion Android app with real-time sync, USB auto-promotion, and network resilience | Kotlin, Android, Coroutines |
 | 🎮 [**ThreeJsShooter**](https://github.com/vthonte/ThreeJsShooter) | 3D browser-based shooter game built with WebGL & Three.js | JavaScript, Three.js, WebGL |
 | 🤖 [**LLM-Hub**](https://github.com/vthonte/LLM-Hub) | Local AI assistant & interface for large language model inference | Python, AI/ML, APIs |
-| ☕ [**javasimple**](https://github.com/vthonte/javasimple) | Simple, clean Spring Boot backend service demonstration | Java, Spring Boot, REST |
 
 ---
 
