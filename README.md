@@ -1,10 +1,6 @@
 <div align="center">
 
-<a href="https://vthonte.github.io">
-  <img src="profilepic.jpeg" width="130px" height="130px" style="border-radius: 50%; border: 3px solid #22c55e;" alt="Vishwesh Thonte" />
-</a>
-
-# Hey there, I'm Vishwesh Thonte 👋
+# Hey there, I'm Vishwesh Thonte <a href="https://vthonte.github.io"><img src="profilepic.jpeg" width="28" height="28" style="border-radius: 50%; vertical-align: middle;" alt="vthonte" /></a> 👋
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=550&lines=Full+Stack+%26+Systems+Developer;Building+AI+%26+Android+Desktop+Environments;Exploring+OS+Internals+%26+Dual-Boot+Toolkits;Entrepreneurial+Mindset+%7C+Open+Source" alt="Typing SVG" />
