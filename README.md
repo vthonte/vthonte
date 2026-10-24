@@ -1,5 +1,9 @@
 <div align="center">
 
+<a href="https://vthonte.github.io">
+  <img src="profilepic.jpeg" width="130px" height="130px" style="border-radius: 50%; border: 3px solid #22c55e;" alt="Vishwesh Thonte" />
+</a>
+
 # Hey there, I'm Vishwesh Thonte 👋
 
 <a href="https://git.io/typing-svg">
@@ -12,7 +16,7 @@
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/vthonte/)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vthonte.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-vthonte.github.io-22c55e?style=for-the-badge&logo=githubpages&logoColor=white)](https://vthonte.github.io/)
 
 </div>
 
